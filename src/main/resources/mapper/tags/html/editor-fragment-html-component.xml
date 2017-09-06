@@ -3,6 +3,8 @@
 <html-component>
 	<fragment name="simditor-editor">  
     <![CDATA[ 
+    
+    
 		<script>
 	        $(document).ready(function (){
 	            toolbar = [ 'title', 'bold', 'italic', 'underline', 'strikethrough',  
